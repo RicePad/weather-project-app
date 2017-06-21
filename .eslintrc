@@ -1,0 +1,19 @@
+
+
+{
+    "globals": {
+        "searchCity": true,
+        "searchButton": true,
+        "cityName": true,
+        "alert": true,
+        "XMLHttpRequest": true,
+        "Weather": true,
+        "loadingText": true,
+        "weatherBox": true,
+        "weatherCity": true,
+        "weatherDescription": true,
+        "weatherTemperature": true
+    
+        
+    }
+}
